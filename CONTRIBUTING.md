@@ -400,3 +400,8 @@ name: Reza Alfian<br>
 institution/company: - <br>
 github: iamrezaalfian<br>
 -----
+
+name: Madhurjya Dasgupta<br>
+institution/company: - Sikkim Manipal Institute of Technology<br>
+github: LunaticPython2003<br>
+-----
